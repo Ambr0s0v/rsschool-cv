@@ -4,7 +4,7 @@
 ![cv-photo](./cv_photo.jpg)
 
 
-##Junior Frontend Developer
+## Junior Frontend Developer
 
 ======================================================
 
